@@ -13,6 +13,7 @@
     "wrangler": "^3.0.0"
   },
   "dependencies": {
-    "@microlabs/otel-cf-workers": "^1.0.0-rc.14"
+    "@microlabs/otel-cf-workers": "^1.0.0-rc.14",
+    "@opentelemetry/api": "^1.4.1"
   }
 }
